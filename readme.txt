@@ -1,0 +1,2 @@
+ESP: Frodge es una aplicación web que te permitirá reducir los desperdicios de comida en casa al ofrecerte recetas con los ingredientes que tengas a la mano. ¡Di adiós a botar comida a la basura con Frodge!
+ENG: Frodge is a web application that will allow you to reduce food waste at home by offering you recipes with the ingredients you have on hand. Say goodbye to throwing food in the trash with Frodge!

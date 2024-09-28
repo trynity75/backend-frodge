@@ -1,0 +1,11 @@
+/node_modules
+.env
+# Archivos de uso temporal en ejercicios de clase de aca para abajo
+/models/File.js
+/controllers/fileController.js
+/middlewares/upload.js
+/routes/file.routes.js
+# File.js solo es por ejercicio de csv parser, borrar despues
+# fileController.js solo es por ejercicio de csv parser, borrar despues
+# upload.js solo es por ejercicio de csv parser, borrar despues
+# file.routes.js solo es por ejercicio de csv parser, borrar despues
